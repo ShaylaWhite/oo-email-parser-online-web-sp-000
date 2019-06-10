@@ -4,5 +4,5 @@
 # or whitespace (' ').
 
 class EmailParser(emails)
-   def self.parse.unqi
+
 end
